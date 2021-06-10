@@ -1,0 +1,38 @@
+p {
+  margin: 0;
+  padding: 5px 10px;
+}
+.wrapper {
+  margin-left: 15px;
+  width: 200px;
+  background: #ffffff;
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  border-radius: 0px 0px 4px 4px;
+}
+.title {
+  margin-left: 40px;
+  color: rgb(56, 3, 29);
+}
+
+.text {
+  margin-left: 25px;
+  font-size: 18px;
+}
+.good {
+  background-color: rgb(102, 228, 150);
+}
+
+.neutral {
+  background-color: rgb(204, 206, 189);
+}
+
+.bad {
+  background-color: rgb(230, 82, 95);
+}
+.total {
+  background-color: rgb(150, 152, 231);
+}
+.percentage {
+  background-color: rgb(100, 209, 236);
+}

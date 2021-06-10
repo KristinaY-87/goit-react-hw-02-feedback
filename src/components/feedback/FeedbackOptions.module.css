@@ -1,0 +1,18 @@
+.description {
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  margin-left: 15px;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+  height: 35px;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  color: rgb(240, 127, 52);
+  background-color: rgb(201, 201, 243);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
